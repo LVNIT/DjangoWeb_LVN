@@ -3,7 +3,6 @@
 ## Stack
   - Python 3.8
   - Django 3.
-  - mysqlclient
   
 ## Setup for develop
 
@@ -32,7 +31,7 @@ You must migrate project in order to create Table in your Database:
 (venv) $ python manage.py runserver
 ```
 
-## Descriptions
+## Description
 The project enough to the features with the shop online such as:
 - Product
 -  Account (login, forgot password, register)
