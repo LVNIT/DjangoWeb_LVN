@@ -82,10 +82,10 @@ WSGI_APPLICATION = 'core.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'shoeshopdb',
+        'NAME': '',
         'USER': 'root',
         'HOST': 'localhost',
-        'PASSWORD': 'lvn123',
+        'PASSWORD': '',
         'PORT': 3306,
     }
 }
